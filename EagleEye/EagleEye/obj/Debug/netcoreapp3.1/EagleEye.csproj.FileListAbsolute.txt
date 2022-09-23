@@ -1,0 +1,17 @@
+C:\Users\mgonzales\source\repos\EagleEye\EagleEye\bin\Debug\netcoreapp3.1\EagleEye.exe
+C:\Users\mgonzales\source\repos\EagleEye\EagleEye\bin\Debug\netcoreapp3.1\EagleEye.deps.json
+C:\Users\mgonzales\source\repos\EagleEye\EagleEye\bin\Debug\netcoreapp3.1\EagleEye.runtimeconfig.json
+C:\Users\mgonzales\source\repos\EagleEye\EagleEye\bin\Debug\netcoreapp3.1\EagleEye.runtimeconfig.dev.json
+C:\Users\mgonzales\source\repos\EagleEye\EagleEye\bin\Debug\netcoreapp3.1\EagleEye.dll
+C:\Users\mgonzales\source\repos\EagleEye\EagleEye\bin\Debug\netcoreapp3.1\EagleEye.pdb
+C:\Users\mgonzales\source\repos\EagleEye\EagleEye\obj\Debug\netcoreapp3.1\EagleEye.csproj.AssemblyReference.cache
+C:\Users\mgonzales\source\repos\EagleEye\EagleEye\obj\Debug\netcoreapp3.1\EagleEye.EagleEyeForm.resources
+C:\Users\mgonzales\source\repos\EagleEye\EagleEye\obj\Debug\netcoreapp3.1\EagleEye.csproj.GenerateResource.cache
+C:\Users\mgonzales\source\repos\EagleEye\EagleEye\obj\Debug\netcoreapp3.1\EagleEye.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mgonzales\source\repos\EagleEye\EagleEye\obj\Debug\netcoreapp3.1\EagleEye.AssemblyInfoInputs.cache
+C:\Users\mgonzales\source\repos\EagleEye\EagleEye\obj\Debug\netcoreapp3.1\EagleEye.AssemblyInfo.cs
+C:\Users\mgonzales\source\repos\EagleEye\EagleEye\obj\Debug\netcoreapp3.1\EagleEye.csproj.CoreCompileInputs.cache
+C:\Users\mgonzales\source\repos\EagleEye\EagleEye\obj\Debug\netcoreapp3.1\EagleEye.dll
+C:\Users\mgonzales\source\repos\EagleEye\EagleEye\obj\Debug\netcoreapp3.1\EagleEye.pdb
+C:\Users\mgonzales\source\repos\EagleEye\EagleEye\obj\Debug\netcoreapp3.1\EagleEye.genruntimeconfig.cache
+C:\Users\mgonzales\source\repos\EagleEye\EagleEye\obj\Debug\netcoreapp3.1\EagleEye.Properties.Resources.resources
